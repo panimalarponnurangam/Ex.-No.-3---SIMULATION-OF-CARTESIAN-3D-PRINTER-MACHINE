@@ -87,7 +87,57 @@ MOTOR :
 motor is help to movement of the print head along x,y,z axes
 
 Y AXIS FRAME :
+It is responsible for support and stability of y axis frame.and also z axis.
 
+Y AXIS BASE :
+The Y-axis base is responsible for providing stability and support to the entire printer's structure, including the Y-axis frame, the print bed, and the printed 
+bject.
+
+Z AXIS ASSEMBLY
+
+![Screenshot 2023-05-18 182550](https://github.com/panimalarponnurangam/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121490826/be84bade-8ed1-4f11-891d-bbc745dbc9fb)
+
+Z AXIS ROD :
+The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
+
+Z AXIS TOP COVER :
+The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
+
+MOTOR :
+motor is help to movement of the print head along x,y,z axes.
+
+COMPLETE ASSEMBLY
+
+![Screenshot 2023-05-18 182726](https://github.com/panimalarponnurangam/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121490826/f3d56b37-bf18-44c0-a561-44b77080ff78)
+
+FRAME :
+rigid structure that holds all the other components of the printer.
+
+Y AXIS ASSEMBLY :
+The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
+
+Z AXIS ASSEMBLY :
+The Z-axis is responsible for moving the print head up and down along the vertical axis.
+
+X AXIS ASSEMBLY :
+The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+
+
+
+SMPS :
+convert ac to dc current.
+
+LCD :
+LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
+
+SPOOL HOLDER :
+It holds spool.
+
+SPOOL :
+A spool refers to a roll of filament that is used as the printing material for the 3D printer.
+
+PLAYING WITH AXES
+![Screenshot 2023-05-18 182919](https://github.com/panimalarponnurangam/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/121490826/78980eb3-0f93-4aa9-a6aa-b305f31f3c8d)
 
 
 
